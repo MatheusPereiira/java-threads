@@ -1,4 +1,4 @@
-#Threads em Java ☕
+# Threads em Java ☕
 
 Repositório contendo exercícios de **threads e concorrência em Java**, abordando a criação de threads com `Thread` e `Runnable`, sincronização (`synchronized`, `wait`, `notify`), pools de threads (`ExecutorService`, `ForkJoinPool`), concorrência em matrizes e algoritmos paralelos.
 
@@ -43,6 +43,12 @@ Os exercícios foram desenvolvidos durante o **4º período do curso de Engenhar
 - **Java** (JDK 17+)
 - **Multithreading & Concorrência** (`java.lang.Thread`, `java.lang.Runnable`, `ExecutorService`, `ForkJoinPool`)
 - **Sincronização & Comunicação** (`synchronized`, `wait()`, `notify()`)
+
+---
+
+## Objetivo
+
+Praticar o desenvolvimento com **threads e concorrência** em Java, utilizando `Thread`, `Runnable`, mecanismos de sincronização (`synchronized`, `wait`, `notify`) e pools de execução (`ExecutorService`, `ForkJoinPool`).
 
 ---
 
